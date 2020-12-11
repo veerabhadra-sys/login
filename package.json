@@ -15,7 +15,6 @@
     "type": "git",
     "url": "git+https://github.com/veerabhadra-sys/login.git"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "~11.0.1",
     "@angular/common": "~11.0.1",
