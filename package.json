@@ -1,6 +1,6 @@
 {
   "name": "veera3-test-package",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Example project from an angular.io guide.",
   "license": "MIT",
   "scripts": {
